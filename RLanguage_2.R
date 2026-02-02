@@ -1,0 +1,1 @@
+#https://www-r--bloggers-com.translate.goog/2021/05/principal-component-analysis-pca-in-r/?_x_tr_sl=en&_x_tr_tl=no&_x_tr_hl=no&_x_tr_pto=sc
